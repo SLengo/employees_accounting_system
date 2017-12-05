@@ -18,3 +18,4 @@ E:\test_project_VARYAG\WebServer_\DBConnect\bin\Debug\Newtonsoft.Json.xml
 E:\test_project_VARYAG\WebServer_\buildall\DBConnect.dll.config
 E:\test_project_VARYAG\WebServer_\buildall\DBConnect.dll
 E:\test_project_VARYAG\WebServer_\buildall\DBConnect.pdb
+E:\test_project_VARYAG\WebServer_\DBConnect\obj\Debug\DBConnect.csprojResolveAssemblyReference.cache

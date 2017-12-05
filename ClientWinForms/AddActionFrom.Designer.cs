@@ -42,7 +42,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
+            this.BirthdayLabel = new System.Windows.Forms.Label();
             this.actionSignlabel = new System.Windows.Forms.Label();
             this.dateOfBirthdaydateTimePicker = new System.Windows.Forms.DateTimePicker();
             this.label8 = new System.Windows.Forms.Label();
@@ -177,14 +177,14 @@
             this.label6.TabIndex = 4;
             this.label6.Text = "Sex";
             // 
-            // label7
+            // BirthdayLabel
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(3, 175);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(82, 13);
-            this.label7.TabIndex = 4;
-            this.label7.Text = "Date of birthday";
+            this.BirthdayLabel.AutoSize = true;
+            this.BirthdayLabel.Location = new System.Drawing.Point(3, 175);
+            this.BirthdayLabel.Name = "BirthdayLabel";
+            this.BirthdayLabel.Size = new System.Drawing.Size(82, 13);
+            this.BirthdayLabel.TabIndex = 4;
+            this.BirthdayLabel.Text = "Date of birthday";
             // 
             // actionSignlabel
             // 
@@ -242,7 +242,7 @@
             this.AddPanel.Controls.Add(this.dateOfBirthdaydateTimePicker);
             this.AddPanel.Controls.Add(this.sernametextBox);
             this.AddPanel.Controls.Add(this.emailtextBox);
-            this.AddPanel.Controls.Add(this.label7);
+            this.AddPanel.Controls.Add(this.BirthdayLabel);
             this.AddPanel.Controls.Add(this.phonetextBox);
             this.AddPanel.Controls.Add(this.label6);
             this.AddPanel.Controls.Add(this.agetextBox);
@@ -259,7 +259,7 @@
             // DateBirthdayCheckBox
             // 
             this.DateBirthdayCheckBox.AutoSize = true;
-            this.DateBirthdayCheckBox.Location = new System.Drawing.Point(91, 174);
+            this.DateBirthdayCheckBox.Location = new System.Drawing.Point(108, 174);
             this.DateBirthdayCheckBox.Name = "DateBirthdayCheckBox";
             this.DateBirthdayCheckBox.Size = new System.Drawing.Size(15, 14);
             this.DateBirthdayCheckBox.TabIndex = 7;
@@ -308,7 +308,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label BirthdayLabel;
         private System.Windows.Forms.Label actionSignlabel;
         private System.Windows.Forms.DateTimePicker dateOfBirthdaydateTimePicker;
         private System.Windows.Forms.Label label8;

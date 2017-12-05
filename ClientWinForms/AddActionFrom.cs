@@ -59,12 +59,14 @@ namespace ClientWinForms
                     {
                         DateBirthdayCheckBox.Visible = false;
                         actionSignlabel.Text = "Employee adding";
+                        BirthdayLabel.Text = "Date of birthday";
                         break;
                     }
                 case 2:
                     {
                         DateBirthdayCheckBox.Visible = true;
                         actionSignlabel.Text = "Employee seeking";
+                        BirthdayLabel.Text = "Find with birth date";
                         break;
                     }
             }
