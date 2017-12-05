@@ -1,0 +1,14 @@
+E:\test_project_VARYAG\WebServer_\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+E:\test_project_VARYAG\WebServer_\ClientWinForms\bin\Debug\ClientWinForms.exe
+E:\test_project_VARYAG\WebServer_\ClientWinForms\bin\Debug\ClientWinForms.pdb
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.AddActionFrom.resources
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.Form1.resources
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.Properties.Resources.resources
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.csproj.GenerateResource.Cache
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.csproj.CoreCompileInputs.cache
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.exe
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.pdb
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.Settings.resources
+E:\test_project_VARYAG\WebServer_\ClientWinForms\bin\Debug\Newtonsoft.Json.dll
+E:\test_project_VARYAG\WebServer_\ClientWinForms\bin\Debug\Newtonsoft.Json.xml
+E:\test_project_VARYAG\WebServer_\ClientWinForms\obj\Debug\ClientWinForms.csprojResolveAssemblyReference.cache
